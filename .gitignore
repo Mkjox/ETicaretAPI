@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /ETicaretClient
+/ETicaretAPI/Presentation/ETicaretAPI.API/wwwroot/resource/product-images/1569794041.png
